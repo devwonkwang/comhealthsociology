@@ -23,6 +23,6 @@ title: 조원광의 Computational Health Sociology
 
 <p align="center">
   <a href="https://devwonkwang.github.io/mind-structure-nlp/">
-    <img src="assets/images/mind-nlp-logo.png" width="250">
+    <img src="assets/images/mind-nlp-logo.PNG" width="250">
   </a>
 </p>
