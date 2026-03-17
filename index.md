@@ -19,7 +19,7 @@ title: 조원광의 Computational Health Sociology
 - [마음의 구조와 NLP](./mind-structure-nlp)
 
 
-## 대표 프로젝트
+## 대표 프로젝트 링크
 
 <p align="center">
   <a href="https://devwonkwang.github.io/mind-structure-nlp/">
