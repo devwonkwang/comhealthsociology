@@ -13,7 +13,11 @@ title: 마음의 구조와 NLP
 
 ## 프로젝트 링크
 
-- https://devwonkwang.github.io/mind-structure-nlp/
+<p align="center">
+  <a href="https://devwonkwang.github.io/mind-structure-nlp/">
+    <img src="assets/images/mind-nlp-logo.png" width="250">
+  </a>
+</p>
 
 ## 소개
 
