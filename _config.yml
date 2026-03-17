@@ -1,0 +1,9 @@
+title: "조원광의 Computational Health Sociology"
+description: "Computational Health Sociology Lab"
+theme: minima
+
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
+  - mind-structure-nlp.md
