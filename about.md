@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 소개
+title: 조원광 소개
 ---
 
 <p align="center">

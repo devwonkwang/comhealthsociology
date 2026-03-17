@@ -13,7 +13,7 @@ title: 조원광의 Computational Health Sociology
 
 ## 바로가기
 
-- [소개](./about)
+- [조원광 소개](./about)
 - [연구](./research)
 - [교육](./teaching)
 - [마음의 구조와 NLP](./mind-structure-nlp)
