@@ -3,11 +3,17 @@ layout: default
 title: Computational Health Sociology Lab
 ---
 
-# 전산보건사회학 연구실 (Computational Health Sociology Lab) 소개
+# 전산보건사회학 연구실 소개
 
-작성: 담당 교수 조원광 (2026)
+<p style="font-size: 1.3em; font-weight: 500; margin-top: -0.5em;">
+  Computational Health Sociology Lab
+</p>
 
+<p style="text-align: right;">
+  작성: 조원광 (2026)
+</p>
 
+---
 서울대학교 보건대학원 전산보건사회학 연구실은 건강과 질병에 대한 여러 문제를 사회학적 시선으로 탐구합니다. 이를 위해 사회학적 상상력과 자리바꿈의 상상력이 중요하다고 생각하며, 이를 증진하려고 함께 노력합니다. 
 
 ### 1. 사회학적 상상력과 보건 의료
@@ -34,10 +40,9 @@ title: Computational Health Sociology Lab
 
 사회학적 상상력과 자리바꿈의 상상력은 한 번 획득하면 완성되는 능력이 아닙니다. 연구와 학습 과정에서 지속적으로 훈련하고 되돌아보아야 하는 능력입니다. 조원광 교수를 포함한 연구실의 구성원은 이 점에서 불완전합니다. 이 능력들을 완벽하게 갖고 있지 못합니다. 
 
-다만 그 불완전함을 감추기보다 인정하고, 서로 배우며 두 가지 상상력을 함께 키워나가고자 합니다. 그 능력으로 보건 의료 문제를 분석하는 한편, 사람과 사회를 덜 단순하고 보다 신중하게 이해하는 데 기여하고자 합니다. 현재 진행 중인 [연구]({{ '/research.html' | relative_url }})와
-[세미나]({{ '/seminar.html' | relative_url }})는 각 소개글을 참조해주십시오.
+다만 그 불완전함을 감추기보다 인정하고, 서로 배우며 두 가지 상상력을 함께 키워나가고자 합니다. 그 능력으로 보건 의료 문제를 분석하는 한편, 사람과 사회를 덜 단순하고 보다 신중하게 이해하는 데 기여하고자 합니다. 현재 진행 중인 [연구](./research)와 [세미나](./seminar)는 각 소개글을 참조해주십시오.
 
-
+---
 
 ## 바로가기
 
@@ -46,7 +51,6 @@ title: Computational Health Sociology Lab
 - [교육](./teaching)
 - [세미나](./seminar)
 - [마음의 구조와 NLP](./mind-structure-nlp)
-
 
 ## 대표 프로젝트 링크
 
