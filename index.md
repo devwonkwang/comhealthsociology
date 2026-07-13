@@ -52,7 +52,7 @@ title: Computational Health Sociology Lab
 - [세미나](./seminar)
 - [마음의 구조와 NLP](./mind-structure-nlp)
 
-## 대표 프로젝트 링크
+## 공개 강의 자료 프로젝트 링크
 
 <p align="center">
   <a href="https://devwonkwang.github.io/mind-structure-nlp/">
