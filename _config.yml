@@ -1,9 +1,13 @@
-title: "조원광의 Computational Health Sociology"
+title: "전산보건사회학 연구실 Computational Health Sociology Lab"
 description: "Computational Health Sociology Lab"
 theme: minima
+
+url: "https://devwonkwang.github.io"
+baseurl: "/comhealthsociology"
 
 header_pages:
   - about.md
   - research.md
   - teaching.md
+  - seminar.md
   - mind-structure-nlp.md
